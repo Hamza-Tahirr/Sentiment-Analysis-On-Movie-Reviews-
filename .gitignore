@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+
+# Dataset (download separately, see README)
+data/
+
+# Editors and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
